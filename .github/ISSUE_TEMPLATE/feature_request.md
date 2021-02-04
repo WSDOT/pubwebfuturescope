@@ -26,4 +26,4 @@ Q1/2/3/4 YYYY
 High/Medium/Low
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context or screenshots about the feature request here
