@@ -23,7 +23,9 @@ MM/DD/YYYY
 Q1/2/3/4 YYYY
 
 **Priority:**
-High/Medium/Low
+- High/Medium/Low Demand
+- High/Medium/Low Impact
+- Extra-small/Small/Medium/Large/Extra-large Effort
 
 **Additional context**
 Add any other context or screenshots about the feature request here
